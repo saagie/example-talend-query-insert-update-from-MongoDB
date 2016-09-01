@@ -1,1 +1,1 @@
-# example-talend-query-insert-update-from-MongoDB
+# Example-Talend : Query, Insert/Update from MongoDB
