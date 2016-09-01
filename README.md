@@ -1,6 +1,6 @@
 # Example-Talend : Query, Insert/Update from MongoDB
 
-Usage :
+## Usage
 - Open "Talend"
 - Click on right on "Job Designs"
 - Click on "Import Items"
